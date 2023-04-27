@@ -32,7 +32,7 @@ The _initial vowel_ is just that: determine the first vowel in a word. You may n
 
 - mi -> (blank)
 - ala -> `a`
-- kijetesantakalu -> `i`
+- kijetesantakalu -> (blank)
 - o -> `o`
 
 The _final consonant_ is the last consonant in the word, _excluding_ a nasal 'n'. You can also think about the last consonant before the last letter of a word. For example:
