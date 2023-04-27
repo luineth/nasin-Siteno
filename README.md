@@ -1,6 +1,8 @@
 # nasin Siteno
 Toki Pona stenography theory and Plover implementation (sitelen + steno = siteno)
 
+[Uni Sitelen Pona Render](/img/toki-uni-steno2.jpeg)
+
 ## nasin Siteno theory
 
 All stenography systems have a theory, that is, a unifying way to simplify and type words on devices which only have 23 keys. In theory, you can type almost everything in toki pona using [only 7 keys](https://www.reddit.com/r/tokipona/comments/pc6bkn/nasin_tenokasi_the_way_of_stenography_7_key_input/), but this would require every word to be memorized rather than a few principles.
@@ -50,11 +52,15 @@ That's all you need!* Just sound the word out. Now you can learn the keyboard la
 
 The three groups of keys (6 consonants on the left, 4 vowels for the thumbs, and 6 flipped consonants on the right) match up to the three letter abbreviation you derived from the last step.
 
+[Latin Layout](/img/layout-latin.png)
+
 *But hey, there are only 6 keys, and toki pona uses 9 consonants?* Right, you are. The most frequently used 6 consonants are accessed by pressing the keys directly, and the less common consonants require pressing both the top and bottom key at the same time:
 
-
+[Disambiguation](/img/layout-latin-combo.png)
 
 You can use this sitelen pona chart as a mnemonic devise to remember the keys and combinations. Top row consonants by themselves are the first consonant in the respective sitelen pona, and the combination letters are the second consonant. So, pressing "**s**ike" would be the letter 's', and pressing "si**k**e" and the key below (li), is the combination for 'k'.
+
+[Sitelen Pona Layout](/img/layout-sitelen.png)
 
 ### 3: Disambiguation with 'ante'
 
