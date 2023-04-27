@@ -1,7 +1,7 @@
 # nasin Siteno
 Toki Pona stenography theory and Plover implementation (sitelen + steno = siteno)
 
-[Uni Sitelen Pona Render](/img/toki-uni-steno2.jpeg)
+![Uni Sitelen Pona Render](/img/toki-uni-steno2.jpeg)
 
 ## nasin Siteno theory
 
@@ -52,15 +52,15 @@ That's all you need!* Just sound the word out. Now you can learn the keyboard la
 
 The three groups of keys (6 consonants on the left, 4 vowels for the thumbs, and 6 flipped consonants on the right) match up to the three letter abbreviation you derived from the last step.
 
-[Latin Layout](/img/layout-latin.png)
+![Latin Layout](/img/layout-latin.png)
 
 *But hey, there are only 6 keys, and toki pona uses 9 consonants?* Right, you are. The most frequently used 6 consonants are accessed by pressing the keys directly, and the less common consonants require pressing both the top and bottom key at the same time:
 
-[Disambiguation](/img/layout-latin-combo.png)
+![Disambiguation](/img/layout-latin-comb.png)
 
 You can use this sitelen pona chart as a mnemonic devise to remember the keys and combinations. Top row consonants by themselves are the first consonant in the respective sitelen pona, and the combination letters are the second consonant. So, pressing "**s**ike" would be the letter 's', and pressing "si**k**e" and the key below (li), is the combination for 'k'.
 
-[Sitelen Pona Layout](/img/layout-sitelen.png)
+![Sitelen Pona Layout](/img/layout-sitelen.png)
 
 ### 3: Disambiguation with 'ante'
 
@@ -75,12 +75,10 @@ A few words would have the same chord. In these cases, the chord will generate t
 | `pal` | pali | pakala |
 | `pij` | pimeja | pije |
 | `ko ` | kon | ko |
-| `kal` | kala | katala |
 | `kam` | kama | kalama |
 | `kas` | kasi | kanse |
 | `sel` | seli | selo |
 | `sil` | sitelen | sijelo |
-| ` ok` | oko | onkon |
 | ` al` | ala | ali |
 
 ## Questions
