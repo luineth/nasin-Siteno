@@ -66,20 +66,7 @@ You can use this sitelen pona chart as a mnemonic devise to remember the keys an
 
 A few words would have the same chord. In these cases, the chord will generate the more frequently used word. To type the alternate word, press the 'ante' key along with the chord. These are the current words which require disambiguation:
 
-| chord | default word | alternate (adding 'ante') |
-|---|---|---|
-| `nas` | nasa | nasin |
-| `mu ` | mun | mu |
-| `luk` | lukin | luka |
-| `pok` | poka | poki |
-| `pal` | pali | pakala |
-| `pij` | pimeja | pije |
-| `ko ` | kon | ko |
-| `kam` | kama | kalama |
-| `kas` | kasi | kanse |
-| `sel` | seli | selo |
-| `sil` | sitelen | sijelo |
-| ` al` | ala | ali |
+**Underconstruction while regenerating dictionary**
 
 ## Questions
 
