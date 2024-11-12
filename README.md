@@ -60,7 +60,7 @@ The three groups of keys (6 consonants on the left, 4 vowels for the thumbs, and
 
 You can use this sitelen pona chart as a mnemonic devise to remember the keys and combinations. Top row consonants by themselves are the first consonant in the respective sitelen pona, and the combination letters are the second consonant. So, pressing "**s**ike" would be the letter 's', and pressing "si**k**e" and the key below (li), is the combination for 'k'.
 
-![Sitelen Pona Layout](/img/layout-sitelen.png)
+![Uni Sitelen Pona Render](/img/toki-uni-steno2.jpeg)
 
 ### 3: Disambiguation with 'ante'
 
